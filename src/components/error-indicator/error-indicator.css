@@ -1,0 +1,11 @@
+.error-indicator {
+  /* flex-direction: row; */
+  width: 18rem;
+  margin: 0 auto;
+  border: none;
+  background-color: inherit;
+}
+
+.error-indicator .card-body {
+  color: #FF7518;
+}
